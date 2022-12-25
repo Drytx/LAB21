@@ -1,0 +1,4 @@
+apple 23 23.32
+cucumber 22 22.24
+eggs 21 25.42
+bread 32 11.12
